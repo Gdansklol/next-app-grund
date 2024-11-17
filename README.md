@@ -1,4 +1,4 @@
-# Nextjs 
+# Next.js 15.0.3 
 
 ## Install
 ```bash
@@ -7,7 +7,18 @@ npx create-next-app@latest .
 
 - ? Use App Router(recommended)? Yes ✅
 
+### Constructing the basic web page skeleton
+```js
+src/app/layout.js
+```
 
+### ## Next.js Deployment
+
+- `npm run build`: Executes the build process for your application, preparing it for production by optimizing and bundling the code. This reduces unnecessary network usage.
+
+- `npm start`: Serves the application by starting the production-ready build from the .next folder.
+
+<hr>
 > This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
