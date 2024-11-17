@@ -11,15 +11,21 @@ npx create-next-app@latest .
 ```js
 src/app/layout.js
 ```
+### Content in page.js
 
-### ## Next.js Deployment
+###  Next.js Deployment
+
+### Route Handlers 
+link: (https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
+
+- But I will use json-server 😊
 
 - `npm run build`: Executes the build process for your application, preparing it for production by optimizing and bundling the code. This reduces unnecessary network usage.
 
 - `npm start`: Serves the application by starting the production-ready build from the .next folder.
 
 <hr>
-> This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
