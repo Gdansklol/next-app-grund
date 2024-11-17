@@ -85,3 +85,7 @@ npx json-server --port 9999 --watch db.json
 npx json-server --port 9999 --watch db.json
 
 ```
+- Communicating with the server from the DevChang console
+- fetch.then()
+
+
